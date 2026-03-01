@@ -1,7 +1,7 @@
 # BRICS Elastic Monetary Model  
 **Designing a BRICS Basket Currency with Elastic Reconvergence**
 
-Author: Armando Jose Freire de Melo  
+Author: Armando Freire
 Independent Research — Terra Dourada  
 
 ---
