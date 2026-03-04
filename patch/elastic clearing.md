@@ -31,11 +31,6 @@ The clearing system shows **strong resistance to external currency shocks** beca
 - supply follows **domestic activity**
 - rather than **external currency valuation**
 
-## Figure
-
-*(Insert graph here)*
-
-![Currency Crisis](images/currency_crisis.png)
 
 ---
 
@@ -67,11 +62,7 @@ While the clearing model enforces:
 
 production / supply anchoring.
 
-## Figure
 
-*(Insert graph here)*
-
-![Hyperinflation Scenario](images/hyperinflation.png)
 
 ---
 
